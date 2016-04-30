@@ -1,0 +1,12 @@
+#include <telelib.h>
+
+//funciones
+
+
+int main()
+{
+
+
+system("pause");
+return(0);
+}
